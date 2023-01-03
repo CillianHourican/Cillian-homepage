@@ -18,6 +18,7 @@ bio: My research interests include disease networks, information synergy and cau
 
 # Interests to show in About widget
 interests:
+  - Computational Science
   - Network Science
   - Causality
   - Information Theory
