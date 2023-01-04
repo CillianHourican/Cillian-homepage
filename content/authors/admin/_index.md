@@ -71,6 +71,4 @@ email: 'c.j.hourican@uva.nl'
 highlight_name: true
 ---
 
-Cillian Hourican is a PhD Candidate in the Computational Science Lab in the University of Amsterdam, under the supervision of Dr. Rick Quax. His research interests include complex networks, disease networks, information synergy and causality. His current research involves applying and developing computational methods to further our understanding of multimorbidy in elderly populations. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Cillian Hourican is a PhD Candidate in the Computational Science Lab in the University of Amsterdam, under the supervision of Dr. Rick Quax. His research interests include complex networks, disease networks, information synergy and causality. His current research involves applying and developing computational methods to further our understanding of multimorbidy in elderly populations.
