@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Computational Science Lab, University of Amsterdam
+  - name: Computational Science Lab, Institute of Informatics, University of Amsterdam
     url: https://uva.computationalscience.nl/
 
 # Short bio (displayed in user profile at end of posts)
